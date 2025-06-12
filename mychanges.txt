@@ -1,5 +1,7 @@
 Hii THIS IS AZAD..
 
+$ git clone --> to get the code from repository
+
 
 $ git add . 
 $ git commit -m "anyComment" 
