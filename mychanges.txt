@@ -1,12 +1,14 @@
-Hii THIS IS AZAD..
+HI THIS IS AZAD..
 
 $ git clone --> to get the code from repository
 
 
 $ git add . 
-$ git commit -m "anyComment" 
+$ git commit -m "any Comment" 
 $ git push
 
 
 
 this is new commit..
+
+hlo all....!

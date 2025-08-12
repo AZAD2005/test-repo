@@ -1,0 +1,19 @@
+ //*****Creating the Angular Project****
+ 
+ 
+ 
+
+//First install the angular in windows-->The command is(npm install -g @angular/cli);
+
+//After installing create a Angular Project-->The command is(ng new my-demo);
+
+//Successfully our project is created
+
+//Next go into our project-->The command is(cd my-demo);
+
+//Next type -->(code .) to enter into visual studio code...
+
+//Enable npm script and enter on it
+
+//And run the (ng serve..);
+//it will show some url like this -->**http://localhost:4200/**
